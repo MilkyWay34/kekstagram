@@ -1,6 +1,6 @@
-# Личный проект «{{kekstagram}}»
+# Личный проект «kekstagram»
 
-* Студент: [{{Andrei}}]({{userProfile}}).
+* Студент: [Andrei]({{userProfile}}).
 * Наставник: `Неизвестно`.
 
 ---
